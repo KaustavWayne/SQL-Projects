@@ -1,7 +1,7 @@
 # 🗄️ SQL PROJECT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Project-orange?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Project Logo" width="400"/>
+  <img src="https://img.shields.io/badge/SQL-Project-orange?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Project Logo" width="600"/>
 </p>
 
 <p align="center">
